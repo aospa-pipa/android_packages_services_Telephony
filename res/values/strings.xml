@@ -1527,10 +1527,10 @@
     <string name="phone_entered_scm_text">Entered SMS Callback Mode</string>
     <!-- SCM: Notification title -->
     <string name="phone_in_scm_notification_title">SMS Callback Mode</string>
-    <!-- SCM: Displays the time when SCM will end, Example: "No Data Connection until 10:45 AM" -->
+    <!-- SCM: Displays the time when SCM will end, Example: "Since 10:45 AM" -->
     <string name="phone_in_scm_notification_complete_time">Since <xliff:g id="completeTime">%s</xliff:g></string>
     <!-- SCM: Dialog box message for exiting from the notifications screen -->
-    <string name="alert_dialog_exit_scm">The phone is in SMS Callback mode. While in this mode, no apps using a data connection can be used. Do you want to exit now?</string>
+    <string name="alert_dialog_exit_scm">The phone is in SMS Callback mode. Do you want to exit now?</string>
     <!-- SCM: Dialog box message for exiting from any other app -->
     <string name="alert_dialog_not_avaialble_in_scm">The selected action isn\'t available while in the SMS Callback mode.Do you want to exit now?</string>
     <!-- SCM: Dialog box message while in emergency call -->
